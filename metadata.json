@@ -1,0 +1,6 @@
+{
+  "name": "Expert Insights AI",
+  "description": "Evidence-grounded analysis of expert interview transcripts on the European Robotic Surgery Market",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
