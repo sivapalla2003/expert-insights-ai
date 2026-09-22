@@ -6,7 +6,7 @@
 
 ### 🌐 [Open Live Application](YOUR_RENDER_URL_HERE)
 
-**Live Demo:** `YOUR_RENDER_URL_HERE`
+**Live Demo:** https://expert-insights-ai.onrender.com/
 
 > The live application allows you to explore expert-interview analysis, evidence retrieval, source quotes, timestamps, cross-expert comparisons, and grounded Q&A.
 
